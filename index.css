@@ -209,7 +209,7 @@ a:hover {
     /* left: 20rem; */
     /* top: 4rem; */
     width: 20rem;
-    background: url('/me.png'), no-repeat;
+    background: url('/me.png');
     background-position: center;
     background-size: cover;
     height: 34rem;
